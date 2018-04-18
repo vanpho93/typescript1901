@@ -5,3 +5,6 @@ function concatString(a, b) {
 }
 var str = concatString('x', 'y');
 console.log(str);
+var isDone = false;
+console.log(isDone);
+var list = [1, 2, 3];
