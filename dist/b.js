@@ -13,11 +13,11 @@ function getPoint(result) {
     return 0;
 }
 console.log(getPoint(MatchResult.Win));
-var notSure = 4;
+let notSure = 4;
 notSure = "maybe a string instead";
 notSure = false;
 // function getTotal (): number {
 //     return 'x';
 // }
-var someValue = "this is a string";
-var strLength = someValue.length;
+let someValue = "this is a string";
+let strLength = someValue.length;

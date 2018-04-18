@@ -3,8 +3,8 @@ console.log(1234);
 function concatString(a, b) {
     return a + b;
 }
-var str = concatString('x', 'y');
+const str = concatString('x', 'y');
 console.log(str);
-var isDone = false;
+let isDone = false;
 console.log(isDone);
-var list = [1, 2, 3];
+let list = [1, 2, 3];
